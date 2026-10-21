@@ -32,4 +32,4 @@ This project is open-source. Feel free to submit Pull Requests or Issues if you 
 - [LSPosed](https://github.com/LSPosed/LSPosed)
 
 ---
-*Developed with by BuildSession*
+*Developed with by BuildSession* 
